@@ -1,4 +1,3 @@
-
 <!-- ═══════════════════ CYBERPUNK HEADER ═══════════════════ -->
 
 <div align="center">
@@ -31,8 +30,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=400&height=35&lines=%3E+WHOAMI" alt="Who am I"/>
 </h2>
 
-<div align="center">
-
 ```csharp
 public class OmarRabea
 {
@@ -52,8 +49,6 @@ public class OmarRabea
         "Building things and understanding how they work.";
 }
 ```
-
-</div>
 
 ---
 
@@ -94,7 +89,7 @@ public class OmarRabea
 
 <br/><br/>
 
-<img width="100%" src="./assets/contributions.dark.svg" alt="GitHub contribution streak and calendar"/>
+<img width="100%" src="./assets/contributions.dark.svg" alt="GitHub contribution graph"/>
 
 </div>
 
