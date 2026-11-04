@@ -100,18 +100,6 @@ public class OmarRabea
 
 ---
 
-<!-- ═══════════════════ CONTRIBUTION MATRIX ═══════════════════ -->
-
-<h2 align="center">🌌 CONTRIBUTION MATRIX</h2>
-
-<div align="center">
-
-<img width="100%" src="./assets/contributions.dark.svg" alt="Contribution history visualization"/>
-
-</div>
-
----
-
 <!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 
 <h2 align="center">🐍 THE CONTRIBUTION HUNT</h2>
